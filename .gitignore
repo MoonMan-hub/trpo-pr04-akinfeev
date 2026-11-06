@@ -1,0 +1,13 @@
+# файлы редакторов
+.idea/
+.vscode/
+*.swp
+
+# системные файлы
+.DS_Store
+Thumbs.db
+
+# зависимости и логи (если появятся позже)
+vendor/
+node_modules/
+*.log
